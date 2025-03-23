@@ -1,4 +1,6 @@
 # default
-Creating my website
-Let's start with the basics.
-First let's type my name and status. 
+Creating my website. The goal is the make my wiki.
+
+
+### todo list
+* display my name, school, research interest
