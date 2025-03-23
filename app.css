@@ -1,8 +1,16 @@
 body {
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
+    justify-content: center;
+    align-items: center;
     height: 100vh;
     margin: 0;
     text-align: center;
+}
+
+h1 {
+    margin-bottom: 1rem;
+}
+
+p {
+    margin: 0.5rem 0;
 }
